@@ -42,7 +42,7 @@ function onGalleryItemClick(e) {
 function showLargeItem(src) {
   const fullSizeGalleryItem = basicLightbox.create(
     `
-    <img src = "${src}" width = "1200" height = "800"">
+    <img src = "${src}" width = "1280" height = "800"">
     `
   );
 
